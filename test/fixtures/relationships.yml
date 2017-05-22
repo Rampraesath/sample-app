@@ -1,0 +1,18 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+#emptyone:
+one:
+  follower: ram
+  followed: lana
+
+two:
+  follower: ram
+  followed: malory
+
+three:
+  follower: lana
+  followed: ram
+
+four:
+  follower: archer
+  followed: ram
